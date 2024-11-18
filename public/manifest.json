@@ -1,17 +1,16 @@
 {
+  "author": "David Meddaugh, Paul Meddaugh",
+  "name": "JSON-Exporter-Importer",
+  "description": "Exports RemNote data into a comprehensive JSON file, and imports RemNote data using the JSON format.",
+  "enableOnMobile": false,
+  "id": "David_Meddaugh-Paul_Meddaugh-hugmr5g",
+  "repoUrl": "https://github.com/meddizzle316/remnote-plugin-template-react",
   "manifestVersion": 1,
-  "id": "plugin_template",
-  "name": "Plugin Template",
-  "author": "remnote",
-  "repoUrl": "",
   "version": {
     "major": 0,
     "minor": 0,
     "patch": 1
   },
-  "theme": [],
-  "enableOnMobile": false,
-  "description": "",
   "requestNative": false,
   "requiredScopes": [
     {

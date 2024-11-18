@@ -4,3 +4,10 @@ dist
 dist-ssr
 *.local
 *.zip
+
+To set up:
+```
+npm install
+npx remnote-plugin init
+npm run dev
+```

@@ -37,6 +37,8 @@ async function onActivate(plugin: ReactRNPlugin) {
   // Register a sidebar widget.
   await plugin.app.registerWidget('sample_widget', WidgetLocation.RightSidebar, {
     dimensions: { height: 'auto', width: '100%' },
+    widgetTabIcon: 'https://cdn-icons-png.flaticon.com/512/2069/2069571.png',
+    widgetTabTitle: 'Dictionary',
   });
 }
 
