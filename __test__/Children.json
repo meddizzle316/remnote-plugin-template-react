@@ -1,0 +1,156 @@
+[
+    {
+        "_id": "ZMaIvRecNFSgyKHYU",
+        "createdAt": 1731961695797,
+        "updatedAt": 1731961703652,
+        "parent": "fXUOIikXWuxS3rlh8",
+        "children": [],
+        "type": 2,
+        "text": [
+            {
+                "i": "q",
+                "_id": "JWYtfvXeQ6yPaiwJ8"
+            }
+        ],
+        "backText": [
+            {
+                "i": "q",
+                "_id": "aSFFGbQLJvf1ZlD8c"
+            }
+        ]
+    },
+    {
+        "_id": "XMC9NwIeRHba9RCZS",
+        "createdAt": 1731961695797,
+        "updatedAt": 1731961703652,
+        "parent": "fXUOIikXWuxS3rlh8",
+        "children": [],
+        "type": 2,
+        "text": [
+            {
+                "i": "q",
+                "_id": "mhPzCrUJzaQTIFWdf"
+            }
+        ],
+        "backText": [
+            {
+                "i": "q",
+                "_id": "8PmkdofvnLIJ46zgx"
+            }
+        ]
+    },
+    {
+        "_id": "6AY45XFFxmKnXiHuh",
+        "createdAt": 1731961695797,
+        "updatedAt": 1731961703652,
+        "parent": "fXUOIikXWuxS3rlh8",
+        "children": [
+            "XMTbzIPsbnrMoLy2y"
+        ],
+        "text": [
+            "What would happen if we don't have the $PATH variable in Linux?"
+        ],
+        "backText": []
+    },
+    {
+        "_id": "RM6T1AuKxLCnOxnkI",
+        "createdAt": 1731961695797,
+        "updatedAt": 1733173118108,
+        "parent": "fXUOIikXWuxS3rlh8",
+        "children": [
+            "jYtPt1U1bthBkbdLX"
+        ],
+        "text": [
+            "What is $PATH?"
+        ],
+        "backText": [
+            "variable that includes a list of directories (all separated by a colon) that Shell will search automatically whenever it runs a command to find the command"
+        ]
+    },
+    {
+        "_id": "txb0tFNAndl4qYlfO",
+        "createdAt": 1731961695797,
+        "updatedAt": 1731961703652,
+        "parent": "fXUOIikXWuxS3rlh8",
+        "children": [],
+        "text": [
+            "What happens if the directories that $PATH contains does not have the command you're trying to use?"
+        ],
+        "backText": [
+            "it will say \"command not found\" "
+        ]
+    },
+    {
+        "_id": "E66l6TT8LWHtbKXdC",
+        "createdAt": 1731961695797,
+        "updatedAt": 1731961703652,
+        "parent": "fXUOIikXWuxS3rlh8",
+        "children": [],
+        "type": 1,
+        "text": [
+            "printenv"
+        ],
+        "backText": [
+            "command to print out all the environment variables "
+        ]
+    },
+    {
+        "_id": "OG5GYwQpzHip1MvYL",
+        "createdAt": 1731961695797,
+        "updatedAt": 1731961703652,
+        "parent": "fXUOIikXWuxS3rlh8",
+        "children": [],
+        "type": 1,
+        "text": [
+            "which"
+        ],
+        "backText": [
+            "command to find the full path where a command or file is "
+        ]
+    },
+    {
+        "_id": "bU5bNojlUqpvcDeAJ",
+        "createdAt": 1731961695797,
+        "updatedAt": 1731961703652,
+        "parent": "fXUOIikXWuxS3rlh8",
+        "children": [],
+        "text": [
+            "What is the given reason for why the home directory is not a part of the $PATH?"
+        ],
+        "backText": [
+            "safety reasons, both domestic and foreign; safer to have access to commands split up "
+        ]
+    },
+    {
+        "_id": "DrMI6RdoTNRJ7Jhcz",
+        "createdAt": 1731961695797,
+        "updatedAt": 1731961703652,
+        "parent": "fXUOIikXWuxS3rlh8",
+        "children": [],
+        "text": [
+            {
+                "text": "Making changes to the PATH permanent",
+                "i": "m",
+                "b": true
+            },
+            " "
+        ]
+    },
+    {
+        "_id": "fSd0YS1Hz5ZGgvF7m",
+        "createdAt": 1731961695797,
+        "updatedAt": 1731961703652,
+        "parent": "fXUOIikXWuxS3rlh8",
+        "children": [
+            "EfrTg52sd1UkKWB9G",
+            "udfUIDr6LhdLAKl80"
+        ],
+        "text": [
+            {
+                "text": "Adding to your Path ",
+                "i": "m",
+                "b": true
+            }
+        ]
+    }
+]

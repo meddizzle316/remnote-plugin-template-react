@@ -2,19 +2,16 @@
 
 Exports RemNote data into a comprehensive JSON file, and imports RemNote data using the JSON format.
 
-## Usage
-
-<!-- TODO: Describe usage -->
+## Dev Set Up
+```
+npm run dev
+```
 
 ## Resources
 https://plugins.remnote.com/getting-started/quick_start_guide
 
-There 
-
-Hierachy
-The PATH variable (rem obj, not actual card)
-    -> "children" 
-        -> "parent" (What would happen if we don't have the $PATH variable in Linux?) multiline don't use backtext, just point answer as "children"
-
-- What would happen if we don't have the $PATH variable in Linux?
-    - you would have to include the full path name (/usr/bin/[command] for every command 
+## Documenting the Undocumented RemNote package
+remNamespace = plugin.rem;
+rem = remNamespace.findOne(id);
+rem.getChildrenRem() gets the children one level lower
+rem.getDescendents() gets all levels of children
